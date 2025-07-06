@@ -29,4 +29,12 @@ pkg install python3
 git clone https://github.com/linuxomar69/CDF_DDOS
 cd CDF_DDOS
 ls
-cd 
+python3 http-v1.py
+Linux :- 
+sudo apt update
+sudo apt upgrade -y
+sudo apt install python3 
+git clone https://github.com/linuxomar69/CDF_DDOS
+cd CDF_DDOS
+ls
+python3 .py
